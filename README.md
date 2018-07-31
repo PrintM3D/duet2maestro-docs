@@ -4,3 +4,5 @@ description: This page will soon contain the documentation for the M3D Duet 2 Ma
 
 # Welcome
 
+![](.gitbook/assets/hecuzwqaqtmam5bgrya7kvwsf9ml0lyjmbqxkvhu.jpeg)
+
